@@ -1,5 +1,8 @@
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQGVh7NNR2_wNw/profile-displaybackgroundimage-shrink_200_800/0/1644141868476?e=2147483647&v=beta&t=Svi15lI7X72dUERCmlM-vVdqKABsbElLy9vxyR54rH4" width="1000">
+
 <h1 align="center">Hi 👋, I'm Anshita</h1>
 <h3 align="center">A coding enthusiast and an aspiring computer engineer with basic knowledge in coding and design</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshita572&label=Profile%20views&color=0e75b6&style=flat" alt="anshita572" /> </p>
 
