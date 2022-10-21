@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshita572&label=Profile%20views&color=0e75b6&style=flat" alt="anshita572" /> </p>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
