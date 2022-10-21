@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Anshita</h1>
 <h3 align="center">A coding enthusiast and an aspiring computer engineer with basic knowledge in coding and design</h3>
-<img align="right" alt="Coding" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="300" height="200">
+<img align="right" alt="Coding" src="coding_girl.gif" width="300" height="200">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshita572&label=Profile%20views&color=0e75b6&style=flat" alt="anshita572" /> </p>
 
