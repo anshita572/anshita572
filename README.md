@@ -4,7 +4,7 @@
 <h3 align="center">A coding enthusiast and an aspiring computer engineer with basic knowledge in coding and design</h3>
 <img align="right" alt="Coding" src="coding_girl.gif" width="300" height="200">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshita572&label=Profile%20views&color=0e75b6&style=flat" alt="anshita572" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshita572&label=Profile%20views&color=0e75b6&style=flat" alt="anshita572" /> </p> -->
 
 - 🌱 I’m currently learning **Backend Development**
 
