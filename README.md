@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQGVh7NNR2_wNw/profile-displaybackgroundimage-shrink_200_800/0/1644141868476?e=2147483647&v=beta&t=Svi15lI7X72dUERCmlM-vVdqKABsbElLy9vxyR54rH4" width="1000">
+<img src="https://media.licdn.com/dms/image/C4D16AQHl_n_fx0tlGA/profile-displaybackgroundimage-shrink_350_1400/0/1655734105633?e=1695859200&v=beta&t=8-eBB6mYPqM-1ES2gnjT7fvaofXrVtWaNGtGAySRjvM" width="1000">
 
 <h1 align="center">Hi 👋, I'm Anshita</h1>
 <h3 align="center">A coding enthusiast and an aspiring computer engineer with basic knowledge in coding and design</h3>
